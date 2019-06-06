@@ -11,3 +11,4 @@ And now in 2019 — a little more than 2 years later, the prospect of algori
 
 And Artificial intelligence (AI) is progressively redefining love and making it brutally effective in ways more than one.
 
+![alt_text](https://github.com/jeffmli/TinderAutomation/raw/master/img/baetamining_bot.gif?raw=true)
