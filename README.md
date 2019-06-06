@@ -11,8 +11,3 @@ And now in 2019 — a little more than 2 years later, the prospect of algori
 
 And Artificial intelligence (AI) is progressively redefining love and making it brutally effective in ways more than one.
 
-Today finding love is no longer determined by what’s going on in our lives, or by our networks. Serendipity and instinct aren’t as heavily relied on with the rise of online dating. People are leaning on the speed, vast candidate pool, and convenience of machine algorithms to find a mate.
-
-“Algorithms can end up knowing a person better than friends, family or even themselves, and that’s revolutionizing matchmaking”, says Michal Kosinski, a computational psychologist and assistant professor at Stanford University’s Graduate School of Business. “Algorithms can learn from experiences of billions of others, while a typical person can only learn from their own experience and the experience of a relatively small number of friends.”
-
-let’s look at some of the ways in which advanced artificial intelligence is being developed to take automated dating to a new, hands-off level.
