@@ -5,6 +5,8 @@
 ### Read my full blog post [here](https://soumyadip1995.blogspot.com/2019/06/ai-for-dating.html)
 ### The full Jupyter Notebook is [here](https://github.com/soumyadip1995/AI-for-Dating/blob/master/AI_for_dating.ipynb)
 
+### Cresits go to this repo [here](https://github.com/jeffmli/TinderAutomation)
+
 In 2017, when a journalist asked the co-founder of Tinder how he imagined his dating app in five years’ time, Sean Rad pulled out his smartphone and pretended to have a conversation with the device.
 
 “The Tinder voice might pop up and say, ‘There’s someone down the street that we think you’re going to be attracted to, and she’s also attracted to you, and guess what, she’s free tomorrow night! And we know you both like this indie band, and it’s playing, so would you like us to buy your tickets?’”
