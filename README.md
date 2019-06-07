@@ -2,6 +2,8 @@
 
 ![alt_text](https://eyeondesign.aiga.org/wp-content/uploads/2017/03/Tinder-its-a-match-typography-aiga.png)
 
+### Read my full blog post [here](https://soumyadip1995.blogspot.com/2019/06/ai-for-dating.html)
+### The full Jupyter Notebook is [here](https://github.com/soumyadip1995/AI-for-Dating/blob/master/AI_for_dating.ipynb)
 
 In 2017, when a journalist asked the co-founder of Tinder how he imagined his dating app in five years’ time, Sean Rad pulled out his smartphone and pretended to have a conversation with the device.
 
