@@ -30,4 +30,4 @@ robobrowser == 0.5.3
 scikit_image == 0.11.3
 
 # image_processing.py: 6
-scipy == 1.0.1
+scipy == 1.10.0
